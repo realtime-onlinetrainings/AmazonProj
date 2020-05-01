@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test diary(failed)">
+    <classes>
+      <class name="com.automation.CukesRunnerTest">
+        <methods>
+          <include name="run_cukes"/>
+        </methods>
+      </class> <!-- com.automation.CukesRunnerTest -->
+    </classes>
+  </test> <!-- Test diary(failed) -->
+</suite> <!-- Failed suite [Suite] -->
